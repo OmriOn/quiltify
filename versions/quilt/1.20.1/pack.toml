@@ -1,0 +1,13 @@
+name = "Quiltify"
+author = "OmriOn"
+version = "1.29.1+1.20.1.quilt"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "db5d80ee77d5cb147fdaf8689b825665e8349105d2baf017b38720c1aaba359c"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.26.4-beta.1"
